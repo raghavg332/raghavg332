@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on open-source projects to enhance my skills and gain exposure to production-level code.
 - 💬 Ask me about Machine Learning, Full-Stack Development, or anything about the tech community at NTU!
-- 📫 How to reach me: raghav008@e.ntu.edu.sg or connect on LinkedIn
+- 📫 How to reach me: raghav008@e.ntu.edu.sg or connect on [LinkedIn](https://www.linkedin.com/in/raghav-gupta-0325081a0/)
 - ⚡ Fun fact: As the Honorary General Secretary of NTU Open Source Society, I've helped connect hundreds of students with open source opportunities!
 
 ## 🚀 About Me
